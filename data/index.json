@@ -1,78 +1,78 @@
 {
-  "last_updated": "2025-10-17T10:56:28.605863Z",
+  "last_updated": "2025-10-17T11:13:20.502373Z",
   "source_url": "https://data.bzerox.org/graph/",
   "stats": {
     "downloaded": 0,
-    "updated": 7,
+    "updated": 8,
     "errors": 0,
-    "skipped": 2
+    "skipped": 1
   },
   "files": [
     {
-      "path": "RichList_RightsTo0xBTC_MainnetETH_holders.json",
-      "size": 770,
-      "modified": "2025-10-17T10:56:28.319257Z",
-      "md5": "087edfff29f7818e78b9b5180d4d7ee4"
-    },
-    {
-      "path": "mined_blocks_testnet.json",
-      "size": 278126,
-      "modified": "2025-10-17T10:56:20.447201Z",
-      "md5": "ec38b30e891cf22ec21ad931cfd3bb82"
-    },
-    {
-      "path": "testnet_uniswap_v4_data.json",
-      "size": 14349,
-      "modified": "2025-10-17T10:56:28.450258Z",
-      "md5": "2e6e27752eec608fdf456929a1bcfe96"
-    },
-    {
-      "path": "price_data_bwork.json",
-      "size": 6868,
-      "modified": "2025-10-17T10:56:28.414258Z",
-      "md5": "958450918b003fded6457e2d618e0840"
-    },
-    {
-      "path": "mined_blocks_testnet.js",
-      "size": 354,
-      "modified": "2025-10-17T10:56:20.446201Z",
-      "md5": "04f660f0973f48b1fa99b58e20d0b82d"
-    },
-    {
-      "path": "RichList_B0x_testnet.json",
-      "size": 1771,
-      "modified": "2025-10-17T10:56:28.259257Z",
-      "md5": "f301707b2aa10c3bad55a39ce8958275"
+      "path": "uu_mined_blocks_testnet.json",
+      "size": 474690,
+      "modified": "2025-10-17T11:13:20.501895Z",
+      "md5": "86c86c8993c1eb4710ef2c265784852b"
     },
     {
       "path": "RichList_B0x_testnet_miners.json",
       "size": 778,
-      "modified": "2025-10-17T10:56:28.290257Z",
-      "md5": "22ed92e3d1c9cd423b356429f87477bd"
+      "modified": "2025-10-17T11:13:19.843762Z",
+      "md5": "d9ef9c70e26c28c876fda3bf39c8c5f8"
     },
     {
-      "path": "B0x_Staking_Rich_List_logs_testnet.json",
-      "size": 819,
-      "modified": "2025-10-17T10:56:20.445201Z",
-      "md5": "21ffc7a8cbde6a5619d439addd756532"
-    },
-    {
-      "path": "RichList__MainnetETH_holders.json",
-      "size": 1076,
-      "modified": "2025-10-17T10:56:28.348257Z",
-      "md5": "809630ee7663f6486729d7ef228f9029"
+      "path": "mined_blocks_testnet.json",
+      "size": 278126,
+      "modified": "2025-10-17T11:13:12.810139Z",
+      "md5": "ec38b30e891cf22ec21ad931cfd3bb82"
     },
     {
       "path": "githubERC20RewardsTestnet.json",
       "size": 182,
-      "modified": "2025-10-17T10:56:20.446201Z",
+      "modified": "2025-10-17T11:13:12.810139Z",
       "md5": "f4559b4fa75caf8238c951742f6506a2"
     },
     {
-      "path": "uu_mined_blocks_testnet.json",
-      "size": 474690,
-      "modified": "2025-10-17T10:56:28.605259Z",
-      "md5": "7b8e4a9f10875526e3aa8b1ac5c098cb"
+      "path": "RichList_B0x_testnet.json",
+      "size": 1771,
+      "modified": "2025-10-17T11:13:19.776452Z",
+      "md5": "d51f1b41197da2f3f6f70e0d6603f695"
+    },
+    {
+      "path": "RichList__MainnetETH_holders.json",
+      "size": 1076,
+      "modified": "2025-10-17T11:13:19.976666Z",
+      "md5": "fae85dc7e8ddbebca7f90add1b58b2ed"
+    },
+    {
+      "path": "B0x_Staking_Rich_List_logs_testnet.json",
+      "size": 819,
+      "modified": "2025-10-17T11:13:19.703105Z",
+      "md5": "8b6478a8b6c29c3fb37b1abf97d6458f"
+    },
+    {
+      "path": "RichList_RightsTo0xBTC_MainnetETH_holders.json",
+      "size": 770,
+      "modified": "2025-10-17T11:13:19.909918Z",
+      "md5": "8b482ddf7f5af1bf5f8750593de66a87"
+    },
+    {
+      "path": "mined_blocks_testnet.js",
+      "size": 354,
+      "modified": "2025-10-17T11:13:12.810139Z",
+      "md5": "04f660f0973f48b1fa99b58e20d0b82d"
+    },
+    {
+      "path": "price_data_bwork.json",
+      "size": 6868,
+      "modified": "2025-10-17T11:13:20.115810Z",
+      "md5": "9961736ec6e1cf7f8b0ca32776b3b18b"
+    },
+    {
+      "path": "testnet_uniswap_v4_data.json",
+      "size": 14349,
+      "modified": "2025-10-17T11:13:20.189334Z",
+      "md5": "f5a1e967857cfdd6f00b6cefc9f21457"
     }
   ]
 }
