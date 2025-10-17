@@ -1,78 +1,78 @@
 {
-  "last_updated": "2025-10-17T13:49:54.148038Z",
+  "last_updated": "2025-10-17T13:57:27.723576Z",
   "source_url": "https://data.bzerox.org/graph/",
   "stats": {
     "downloaded": 0,
-    "updated": 8,
+    "updated": 7,
     "errors": 0,
-    "skipped": 1
+    "skipped": 2
   },
   "files": [
     {
-      "path": "uu_mined_blocks_testnet.json",
-      "size": 474690,
-      "modified": "2025-10-17T13:49:54.147574Z",
-      "md5": "c7ada848057d8d22832bc8343286af44"
-    },
-    {
-      "path": "RichList_B0x_testnet_miners.json",
-      "size": 778,
-      "modified": "2025-10-17T13:49:53.521695Z",
-      "md5": "2e006fc030eab27dd5db744daf4bbb5e"
+      "path": "RichList_RightsTo0xBTC_MainnetETH_holders.json",
+      "size": 770,
+      "modified": "2025-10-17T13:57:27.517056Z",
+      "md5": "9888275f213dcaa2aa605ec2bd3a6fa1"
     },
     {
       "path": "mined_blocks_testnet.json",
       "size": 278126,
-      "modified": "2025-10-17T13:49:38.024289Z",
+      "modified": "2025-10-17T13:57:19.795274Z",
       "md5": "ec38b30e891cf22ec21ad931cfd3bb82"
-    },
-    {
-      "path": "githubERC20RewardsTestnet.json",
-      "size": 182,
-      "modified": "2025-10-17T13:49:38.023547Z",
-      "md5": "f4559b4fa75caf8238c951742f6506a2"
-    },
-    {
-      "path": "RichList_B0x_testnet.json",
-      "size": 1771,
-      "modified": "2025-10-17T13:49:53.457922Z",
-      "md5": "a4c349db897e464b2b4036404d0d9a44"
-    },
-    {
-      "path": "RichList__MainnetETH_holders.json",
-      "size": 1076,
-      "modified": "2025-10-17T13:49:53.652859Z",
-      "md5": "59fb82d93c148ffe3587a7ad01103e18"
-    },
-    {
-      "path": "B0x_Staking_Rich_List_logs_testnet.json",
-      "size": 819,
-      "modified": "2025-10-17T13:49:53.389134Z",
-      "md5": "daf5afe64138f8d687703c08da9b8486"
-    },
-    {
-      "path": "RichList_RightsTo0xBTC_MainnetETH_holders.json",
-      "size": 770,
-      "modified": "2025-10-17T13:49:53.588722Z",
-      "md5": "3a6d55ebc00c7c160a3731d0eb9d6b88"
-    },
-    {
-      "path": "mined_blocks_testnet.js",
-      "size": 354,
-      "modified": "2025-10-17T13:49:38.023547Z",
-      "md5": "04f660f0973f48b1fa99b58e20d0b82d"
-    },
-    {
-      "path": "price_data_bwork.json",
-      "size": 6924,
-      "modified": "2025-10-17T13:49:53.783015Z",
-      "md5": "aa72d6c4aecfc0019dcaff87b568ddb6"
     },
     {
       "path": "testnet_uniswap_v4_data.json",
       "size": 14349,
-      "modified": "2025-10-17T13:49:53.853265Z",
-      "md5": "84f96f79a3bdc67e776981fa4254296c"
+      "modified": "2025-10-17T13:57:27.614056Z",
+      "md5": "903412c96ac3b9758382e5fcda918da1"
+    },
+    {
+      "path": "price_data_bwork.json",
+      "size": 6925,
+      "modified": "2025-10-17T13:57:27.588056Z",
+      "md5": "0bdbd7bc2121eb4c25fc8e02d7f434e7"
+    },
+    {
+      "path": "mined_blocks_testnet.js",
+      "size": 354,
+      "modified": "2025-10-17T13:57:19.794274Z",
+      "md5": "04f660f0973f48b1fa99b58e20d0b82d"
+    },
+    {
+      "path": "RichList_B0x_testnet.json",
+      "size": 1771,
+      "modified": "2025-10-17T13:57:27.475055Z",
+      "md5": "863b8e8f750e9c70f72e1ba1ef8bb075"
+    },
+    {
+      "path": "RichList_B0x_testnet_miners.json",
+      "size": 778,
+      "modified": "2025-10-17T13:57:27.498055Z",
+      "md5": "54c6620d899e07e631534cfa67a0e82f"
+    },
+    {
+      "path": "B0x_Staking_Rich_List_logs_testnet.json",
+      "size": 819,
+      "modified": "2025-10-17T13:57:19.794274Z",
+      "md5": "daf5afe64138f8d687703c08da9b8486"
+    },
+    {
+      "path": "RichList__MainnetETH_holders.json",
+      "size": 1076,
+      "modified": "2025-10-17T13:57:27.536056Z",
+      "md5": "c7d65eb66dbe2ce71581148c26324a27"
+    },
+    {
+      "path": "githubERC20RewardsTestnet.json",
+      "size": 182,
+      "modified": "2025-10-17T13:57:19.794274Z",
+      "md5": "f4559b4fa75caf8238c951742f6506a2"
+    },
+    {
+      "path": "uu_mined_blocks_testnet.json",
+      "size": 474690,
+      "modified": "2025-10-17T13:57:27.722057Z",
+      "md5": "6613d7e08ad24ebab7c5c715f0590575"
     }
   ]
 }
