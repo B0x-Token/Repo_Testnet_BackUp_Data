@@ -5,10 +5,10 @@
     "decimals": 18,
     "address": "0xc328597Ac483478f824A806163559ddccb46Eb0F"
   },
-  "totalHolders": 1535,
-  "lastUpdated": "2026-06-10T14:22:07.575111",
-  "scanCompletedBlock": 25289096,
-  "totalTransfers": 3549,
+  "totalHolders": 1544,
+  "lastUpdated": "2026-06-10T16:31:52.273388",
+  "scanCompletedBlock": 25289750,
+  "totalTransfers": 3564,
   "holders": [
     {
       "address": "0xf89d7b9c864f589bbF53a82105107622B35EaA40",
@@ -1081,14 +1081,14 @@
       "balanceFormatted": "9.00555454e-10"
     },
     {
+      "address": "0xE111180000d2663C0091e4f400237545B87B996B",
+      "balance": "899438013",
+      "balanceFormatted": "8.99438013e-10"
+    },
+    {
       "address": "0x28A5Cce51C16B956266AB9500b1847397F16a763",
       "balance": "895000000",
       "balanceFormatted": "8.95e-10"
-    },
-    {
-      "address": "0xE111180000d2663C0091e4f400237545B87B996B",
-      "balance": "894104533",
-      "balanceFormatted": "8.94104533e-10"
     },
     {
       "address": "0xA023f08c70A23aBc7EdFc5B6b5E171d78dFc947e",
@@ -2586,6 +2586,11 @@
       "balanceFormatted": "4e-11"
     },
     {
+      "address": "0x1327e266Fc9bE1633A355b6D71206Eeb9ce30119",
+      "balance": "39971000",
+      "balanceFormatted": "3.9971e-11"
+    },
+    {
       "address": "0xC2B6EE6fFf5E1e0BDb81F6F06397ad5cb5Ef7070",
       "balance": "39680700",
       "balanceFormatted": "3.96807e-11"
@@ -2761,6 +2766,11 @@
       "balanceFormatted": "2.903e-11"
     },
     {
+      "address": "0x04Fc7b3E253fAEd15f361Da7a29FdbEA6b1bc46D",
+      "balance": "28747000",
+      "balanceFormatted": "2.8747e-11"
+    },
+    {
       "address": "0x0980c861B9E4d0980c969f9E8CC7fcF2EAB58f67",
       "balance": "28000000",
       "balanceFormatted": "2.8e-11"
@@ -2902,6 +2912,11 @@
     },
     {
       "address": "0x4Fa7Db82E8655494e11A48273C332a7086eD90c2",
+      "balance": "20000000",
+      "balanceFormatted": "2e-11"
+    },
+    {
+      "address": "0x14026373DA58FaBe45E2bF73a915a5D4B3a6e35B",
       "balance": "20000000",
       "balanceFormatted": "2e-11"
     },
@@ -3121,6 +3136,11 @@
       "balanceFormatted": "9.911557e-12"
     },
     {
+      "address": "0x1418d1D10cc82124D6E3Ba689062Bfe0d2876Fef",
+      "balance": "9899999",
+      "balanceFormatted": "9.899999e-12"
+    },
+    {
       "address": "0x9bF0aa0226ffb1633e8E776146B1C9060d88608d",
       "balance": "9873967",
       "balanceFormatted": "9.873967e-12"
@@ -3199,6 +3219,11 @@
       "address": "0x264bd8291fAE1D75DB2c5F573b07faA6715997B5",
       "balance": "7110000",
       "balanceFormatted": "7.11e-12"
+    },
+    {
+      "address": "0x12Ea27446a99daeD4b691e8D7F8716a3B799A131",
+      "balance": "7076400",
+      "balanceFormatted": "7.0764e-12"
     },
     {
       "address": "0x645c2c4A33740D9E06306e7a240D89a8d8328493",
@@ -3284,6 +3309,11 @@
       "address": "0xEFb753686636592E470066a74FA57F2f7a6B4D51",
       "balance": "4600000",
       "balanceFormatted": "4.6e-12"
+    },
+    {
+      "address": "0x13e279dD1D6cbd78bBc05Af10c257fA976FF4Baf",
+      "balance": "4545453",
+      "balanceFormatted": "4.545453e-12"
     },
     {
       "address": "0x2494345F3f94B5bf4b8188CD32ea5Fa5FC419A83",
@@ -3419,6 +3449,16 @@
       "address": "0x7682B0C7e334e03e4710ca1cD47552365bF900cD",
       "balance": "1250000",
       "balanceFormatted": "1.25e-12"
+    },
+    {
+      "address": "0x13aD9E8BEeAB772FF7095Bf4AA5cba99Ea8365fD",
+      "balance": "1191731",
+      "balanceFormatted": "1.191731e-12"
+    },
+    {
+      "address": "0x08d81D9d1c1b67efA0E65b17cd50E56B21E2B8Bd",
+      "balance": "1136358",
+      "balanceFormatted": "1.136358e-12"
     },
     {
       "address": "0x1fC20227E852cFE9F7edD81c08AE1394012d61B6",
@@ -3589,6 +3629,11 @@
       "address": "0x65078CfEF8F7c07441661393eaB6cb93B31db0dD",
       "balance": "9223",
       "balanceFormatted": "9.223e-15"
+    },
+    {
+      "address": "0x13e0D447520ebE7f8EEAF7817211201b2C585204",
+      "balance": "7908",
+      "balanceFormatted": "7.908e-15"
     },
     {
       "address": "0xDDdb9a95E443A204EB8650D5EA578ed707Fe2123",
