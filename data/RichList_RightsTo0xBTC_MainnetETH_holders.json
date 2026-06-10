@@ -5,10 +5,10 @@
     "decimals": 18,
     "address": "0xc328597Ac483478f824A806163559ddccb46Eb0F"
   },
-  "totalHolders": 1517,
-  "lastUpdated": "2026-06-10T01:06:22.244681",
-  "scanCompletedBlock": 25285144,
-  "totalTransfers": 3477,
+  "totalHolders": 1525,
+  "lastUpdated": "2026-06-10T05:20:08.368427",
+  "scanCompletedBlock": 25286396,
+  "totalTransfers": 3509,
   "holders": [
     {
       "address": "0xf89d7b9c864f589bbF53a82105107622B35EaA40",
@@ -29,6 +29,11 @@
       "address": "0xAAeE1f3bb3583E360ebC1e5d8230428527e7341A",
       "balance": "1830049793033271388416",
       "balanceFormatted": "1830.0497930332715"
+    },
+    {
+      "address": "0x28C6c06298d514Db089934071355E5743bf21d60",
+      "balance": "1271201904419927134300",
+      "balanceFormatted": "1271.2019044199271"
     },
     {
       "address": "0x23400DC0cC44fb8F295fD4C73bB19528066b59f3",
@@ -1046,11 +1051,6 @@
       "balanceFormatted": "9.57280518e-10"
     },
     {
-      "address": "0xE111180000d2663C0091e4f400237545B87B996B",
-      "balance": "921934663",
-      "balanceFormatted": "9.21934663e-10"
-    },
-    {
       "address": "0x71416fCC9Cc1B3f5C9B7b73b5f648484D8A9796a",
       "balance": "900555454",
       "balanceFormatted": "9.00555454e-10"
@@ -1064,6 +1064,11 @@
       "address": "0xA023f08c70A23aBc7EdFc5B6b5E171d78dFc947e",
       "balance": "861654221",
       "balanceFormatted": "8.61654221e-10"
+    },
+    {
+      "address": "0xE111180000d2663C0091e4f400237545B87B996B",
+      "balance": "861458873",
+      "balanceFormatted": "8.61458873e-10"
     },
     {
       "address": "0x33b7A64FA7E9B3594C3886A1778262137E2d9507",
@@ -1936,6 +1941,11 @@
       "balanceFormatted": "1.30626376e-10"
     },
     {
+      "address": "0x35E6f6d3b7D55D89615E511954c3ff4316E87a4D",
+      "balance": "130432930",
+      "balanceFormatted": "1.3043293e-10"
+    },
+    {
       "address": "0xc80064Ae51cC42ec3Bd424e6e87bb65f0Df63C6C",
       "balance": "125073168",
       "balanceFormatted": "1.25073168e-10"
@@ -2251,6 +2261,11 @@
       "balanceFormatted": "7.0053521e-11"
     },
     {
+      "address": "0x35E7e54f1203dD2d8Fe88bCaa998DBD67Aeb3459",
+      "balance": "69986690",
+      "balanceFormatted": "6.998669e-11"
+    },
+    {
       "address": "0xD1Bd61C7f2a1442Aed627Fa0A593635cb0d93A60",
       "balance": "69750000",
       "balanceFormatted": "6.975e-11"
@@ -2334,6 +2349,11 @@
       "address": "0x443423a8Cb8E93f324720843310AD32Ba221aD23",
       "balance": "60000000",
       "balanceFormatted": "6e-11"
+    },
+    {
+      "address": "0x36901eB0f21519cC9055662A6d2483e96Da1e16F",
+      "balance": "59080000",
+      "balanceFormatted": "5.908e-11"
     },
     {
       "address": "0x3920187E61877d4744DC58a619a73907a41e5463",
@@ -2641,9 +2661,19 @@
       "balanceFormatted": "3.2974314e-11"
     },
     {
+      "address": "0x368fb1C69029A85cE6f22cB7bF4BB66cd72da97e",
+      "balance": "32800000",
+      "balanceFormatted": "3.28e-11"
+    },
+    {
       "address": "0x94eF73486903cf2F4Cc8e97BC58e018c058A1883",
       "balance": "32720000",
       "balanceFormatted": "3.272e-11"
+    },
+    {
+      "address": "0x369CB003E5C381580c9f15dFbc473ac2033bEAB1",
+      "balance": "32679918",
+      "balanceFormatted": "3.2679918e-11"
     },
     {
       "address": "0x780857849c69dFAe8d874214D314386Efa6DD33c",
@@ -2669,6 +2699,11 @@
       "address": "0xD2c7b811f91b81fFAe75bB686F3bb285ebEDE9c6",
       "balance": "30327061",
       "balanceFormatted": "3.0327061e-11"
+    },
+    {
+      "address": "0x31BBa61D1D33123F112fD48694D754a3DDfb3621",
+      "balance": "30013230",
+      "balanceFormatted": "3.001323e-11"
     },
     {
       "address": "0x056450A9aFd6c0301FfdE55d5d827d7A3ae8224F",
@@ -3289,6 +3324,11 @@
       "address": "0xd4F60736355F8A56351B898c74af02DB3eF88245",
       "balance": "1824910",
       "balanceFormatted": "1.82491e-12"
+    },
+    {
+      "address": "0x19e562904B90968c28994A503926646663A1FC9C",
+      "balance": "1810686",
+      "balanceFormatted": "1.810686e-12"
     },
     {
       "address": "0xfE85E3dA74388224b652504f88251cA25A81ED0A",
