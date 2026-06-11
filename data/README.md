@@ -2,7 +2,7 @@
 
 This directory contains a backup mirror of [https://data.bzerox.org/graph/](https://data.bzerox.org/graph/)
 
-**Last Updated:** 2026-06-11T06:22:43.817769Z
+**Last Updated:** 2026-06-11T11:02:33.799638Z
 
 ## ⚠️ Important Notes
 - This is a backup mirror that only updates when the source server is available
@@ -25,8 +25,8 @@ This directory contains a backup mirror of [https://data.bzerox.org/graph/](http
 - [`B0x_Staking_Rich_List_logs_testnet.json`](B0x_Staking_Rich_List_logs_testnet.json) (0.8 KB)
 - [`RichList_B0x_testnet.json`](RichList_B0x_testnet.json) (2.2 KB)
 - [`RichList_B0x_testnet_miners.json`](RichList_B0x_testnet_miners.json) (1.1 KB)
-- [`RichList_RightsTo0xBTC_MainnetETH_holders.json`](RichList_RightsTo0xBTC_MainnetETH_holders.json) (214.5 KB)
-- [`RichList__MainnetETH_holders.json`](RichList__MainnetETH_holders.json) (412.4 KB)
+- [`RichList_RightsTo0xBTC_MainnetETH_holders.json`](RichList_RightsTo0xBTC_MainnetETH_holders.json) (228.7 KB)
+- [`RichList__MainnetETH_holders.json`](RichList__MainnetETH_holders.json) (427.1 KB)
 - [`githubERC20RewardsTestnet.json`](githubERC20RewardsTestnet.json) (0.2 KB)
 - [`mined_blocks_testnet.json`](mined_blocks_testnet.json) (271.6 KB)
 - [`price_data_bwork.json`](price_data_bwork.json) (6.8 KB)
