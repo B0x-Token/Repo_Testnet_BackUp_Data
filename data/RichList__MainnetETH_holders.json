@@ -5,10 +5,10 @@
     "decimals": 18,
     "address": "0x2f38b1a516239739cdcd2c228d1eb96e29800975"
   },
-  "totalHolders": 9611,
-  "lastUpdated": "2026-06-21T14:59:21.626805",
-  "scanCompletedBlock": 25368213,
-  "totalTransfers": 38619,
+  "totalHolders": 9615,
+  "lastUpdated": "2026-06-21T16:20:18.097585",
+  "scanCompletedBlock": 25368614,
+  "totalTransfers": 38627,
   "holders": [
     {
       "address": "0xd862CDcfEB856C32B3C4F7563f4811D8Ddfd42e2",
@@ -47,7 +47,7 @@
     },
     {
       "address": "0x67366782805870060151383F4BbFF9daB53e5cD6",
-      "balance": "32427949390239103642589862",
+      "balance": "32427949390239103646717779",
       "balanceFormatted": "32427949.390239105"
     },
     {
@@ -3237,8 +3237,8 @@
     },
     {
       "address": "0xBB98B3D2b18aeF63a3178023A920971cf5F29bE4",
-      "balance": "103361485507770693",
-      "balanceFormatted": "0.10336148550777069"
+      "balance": "103361485535356028",
+      "balanceFormatted": "0.10336148553535603"
     },
     {
       "address": "0xd0ce021bCeff33cA74c7B26A108FbbeF75Bc060D",
@@ -7886,14 +7886,14 @@
       "balanceFormatted": "1.105587898e-09"
     },
     {
-      "address": "0x296b95DD0E8B726c4e358b0683ff0B6d675C35E9",
-      "balance": "1105302069",
-      "balanceFormatted": "1.105302069e-09"
-    },
-    {
       "address": "0x5808a0364Ea7f43680b632eAA65fd0728631af17",
       "balance": "1102707753",
       "balanceFormatted": "1.102707753e-09"
+    },
+    {
+      "address": "0x296b95DD0E8B726c4e358b0683ff0B6d675C35E9",
+      "balance": "1101174152",
+      "balanceFormatted": "1.101174152e-09"
     },
     {
       "address": "0xBe05397A32529E5365Cc9394634501bD40B745E4",
@@ -10781,11 +10781,6 @@
       "balanceFormatted": "2.94619e-10"
     },
     {
-      "address": "0x39BFC628a34b07C5D65f207e59077dD3C8F10730",
-      "balance": "294225106",
-      "balanceFormatted": "2.94225106e-10"
-    },
-    {
       "address": "0x0eC29162BB71C7F229bA5b355E295Ab9db43Aed2",
       "balance": "294117600",
       "balanceFormatted": "2.941176e-10"
@@ -11084,6 +11079,11 @@
       "address": "0x165Df933af79740e54517AC35fe18B31Fe0d38b8",
       "balance": "267506000",
       "balanceFormatted": "2.67506e-10"
+    },
+    {
+      "address": "0x39BFC628a34b07C5D65f207e59077dD3C8F10730",
+      "balance": "266639771",
+      "balanceFormatted": "2.66639771e-10"
     },
     {
       "address": "0x765766FC7E510c655577b40952ebb164D68891ee",
@@ -18646,6 +18646,11 @@
       "balanceFormatted": "2.383666e-11"
     },
     {
+      "address": "0xE203247CAf51E3A328f2871E9A57Acc887B28FDa",
+      "balance": "23763454",
+      "balanceFormatted": "2.3763454e-11"
+    },
+    {
       "address": "0x98F56cA2c2757B33ab6D5164Eb6db093a61d4DFb",
       "balance": "23755092",
       "balanceFormatted": "2.3755092e-11"
@@ -18729,6 +18734,11 @@
       "address": "0xBA07f0784661a92fA84Cc2A95Fb04EF1a8157E95",
       "balance": "23420000",
       "balanceFormatted": "2.342e-11"
+    },
+    {
+      "address": "0xfD637832449d0da412B887e5603313f483A40333",
+      "balance": "23405080",
+      "balanceFormatted": "2.340508e-11"
     },
     {
       "address": "0xD6bFED4fAdc79c0e74ae090c32C01C2c5aB87c23",
@@ -37346,6 +37356,11 @@
       "balanceFormatted": "1e-15"
     },
     {
+      "address": "0x8F4cd7882BCd82145e0Cd118784CF2E089A547D6",
+      "balance": "1000",
+      "balanceFormatted": "1e-15"
+    },
+    {
       "address": "0x29ca6B1F745CfaAE54C0BBcB33b1F41D7926A8b9",
       "balance": "999",
       "balanceFormatted": "9.99e-16"
@@ -44807,6 +44822,11 @@
     },
     {
       "address": "0x66E48112bF32dc910e36Ff294e818FFE34C33507",
+      "balance": "199",
+      "balanceFormatted": "1.99e-16"
+    },
+    {
+      "address": "0x2842822aa021dA165DC2813249A1c0CBA922b530",
       "balance": "199",
       "balanceFormatted": "1.99e-16"
     },
