@@ -4,11 +4,11 @@
     "symbol": "tB0x",
     "decimals": 18
   },
-  "totalHolders": 12,
+  "totalHolders": 13,
   "totalMiners": 5,
-  "lastUpdated": "2026-09-11T20:02:36.407952",
-  "scanCompletedBlock": 46703328,
-  "totalTransfers": 4822,
+  "lastUpdated": "2026-09-12T00:37:25.432185",
+  "scanCompletedBlock": 46711573,
+  "totalTransfers": 4837,
   "totalMints": 4605,
   "minters": 363436425000000000000000,
   "holders": [
@@ -23,14 +23,19 @@
       "balanceFormatted": "360612.48131444433"
     },
     {
-      "address": "0xF2E00a6DbA02eD1115e5BEf3CcD7B5dD47141dDC",
-      "balance": "228826725000000000000000",
-      "balanceFormatted": "228826.725"
-    },
-    {
       "address": "0xfFF72Ee0dBa7b9f8027CFE7bfED3f773d872F2Fc",
       "balance": "123790541949383199678980",
       "balanceFormatted": "123790.5419493832"
+    },
+    {
+      "address": "0xF2E00a6DbA02eD1115e5BEf3CcD7B5dD47141dDC",
+      "balance": "114413362500000000000000",
+      "balanceFormatted": "114413.3625"
+    },
+    {
+      "address": "0x161447a2AB515b2bC1908A1817355Da7d4462cE7",
+      "balance": "110924519632124009059515",
+      "balanceFormatted": "110924.51963212401"
     },
     {
       "address": "0x7e2B7F161c0376f69c62BffD345dA07843A7b733",
@@ -38,14 +43,14 @@
       "balanceFormatted": "8875.301303103992"
     },
     {
+      "address": "0x05E73354cFDd6745C338b50BcFDfA3Aa6fA03408",
+      "balance": "7096187001361043155848",
+      "balanceFormatted": "7096.187001361043"
+    },
+    {
       "address": "0x66c1A1c40FE3BA43fA8b8390Be21E9b39E5B7D53",
       "balance": "5492088987676990736790",
       "balanceFormatted": "5492.088987676991"
-    },
-    {
-      "address": "0x05E73354cFDd6745C338b50BcFDfA3Aa6fA03408",
-      "balance": "3577344133485052309526",
-      "balanceFormatted": "3577.344133485052"
     },
     {
       "address": "0xb8a80cB0e69c089108A6914406aA1A46BDCBa11c",
@@ -69,8 +74,8 @@
     },
     {
       "address": "0xc728AF6267315b5CB7669D7DC4F87f5174adabE8",
-      "balance": "66515",
-      "balanceFormatted": "6.6515e-14"
+      "balance": "160678",
+      "balanceFormatted": "1.60678e-13"
     }
   ]
 }
